@@ -1,0 +1,166 @@
+    1  pwd
+    2  git config --global user.name daiiison
+    3  gitt cofig -- user.email maryafox.g@gmail.com
+    4  git config user.email maryafox.g@gmail.com
+    5  git config --global user.email maryafox.g@gmail.com
+    6  git config --global user.name daiiison
+    7  git clone https://github.com/daiiison/HW_10.git
+    8  cd HW_10
+    9  ls -l
+   10  git status
+   11  clar
+   12  clear
+   13  git checoutt -b test_brunch
+   14  git checout -b test_brunch
+   15  git checkout -b test_brunch
+   16  touch new_file.txt
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "added new file"
+   21  git log
+   22  git checkout main
+   23  git log
+   24  git push origin test_branch
+   25  git push origin test_brunch
+   26  clear
+   27  git merge test_brunch
+   28  git status
+   29  git push origin main
+   30  vim .gitignore
+   31  cd .gitignore
+   32  touch text_ignore.txt
+   33  vim .gitignore
+   34  touch text_ignore.txt
+   35  nano .gitignor
+   36  git status
+   37  cd repo
+   38  cd c/Users/user/Desctop/repo
+   39  pw d
+   40  pw
+   41  pwd
+   42  git status
+   43  git branch
+   44  git branch main
+   45  git clone https://github.com/daiiison/HW_10.git
+   46  gitlog
+   47  git log
+   48  git config --global user.name daiiison
+   49  git config --global user.email maryafox.g@gmail.com
+   50  git clone https://github.com/daiiison/HW_10.git
+   51  nano .gitignore
+   52  git status
+   53  git status
+   54  cd <dir>
+   55  git config --global --add safe.directory С:/GitHub/repo
+   56  git status
+   57  ls
+   58  ls -l
+   59  git init
+   60  cd C:/Users/user/Desktop/repo
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit .
+   65  git status
+   66  git commit .
+   67  git config --global user.name daiiison
+   68   git config --global user.email maryafox.g@gmail.com
+   69  nano .gitignore
+   70  git status
+   71  git commit .
+   72  git commit
+   73  rm -f ./.git/index.lock
+   74  git commit
+   75  git commit .
+   76  git config --global core.autocrlf false
+   77  git commit
+   78  git commit
+   79  git commit
+   80  git config --global user.name daiiison
+   81  git config --global user.email maryafox.g@gmail.com
+   82  touch text_ignore.txt
+   83  vim .gitignore
+   84  git add .
+   85  git init
+   86  cd C:/Users/user/Desktop/repos
+   87  git add .
+   88  git status
+   89  git commit .
+   90  git commit -am "task1"
+   91  vim .gitignore
+   92  nano .gitignore
+   93  git status
+   94  git add .
+   95  git commit -am "task1"
+   96  git status
+   97  git checkout -b <develop_branch>
+   98  git checkout -b <develop>
+   99  git checkout -b develop_branch
+  100  touch develop_test.txt
+  101  git log
+  102  git status
+  103  git add .
+  104  git commit -m "bibibobi"
+  105  nano develop_test.txt
+  106  git status
+  107  git add .
+  108  git commit -m "bibiboba"
+  109  git checkout mane
+  110  git checkout main
+  111  git checkout master
+  112  git push origin develop_branch
+  113  git push myOrigin develop_branch
+  114  git remote -v
+  115  git remote add origin <https://github.com/daiiison/HW_10.git>
+  116  git push origin main
+  117  git push origin master
+  118  git remote add origin
+  119  git remote add origin https://github.com/daiiison/HW_10.git
+  120  git remote -v
+  121  git push origin master
+  122  git push origin develop_branch
+  123  git merge develop_branch
+  124  git log
+  125  git push origin master
+  126  history > command_list.csv
+  127  git add .
+  128  git commit -m "commit 5"
+  129  git push .
+  130  git checkout main
+  131  git checkout master
+  132  history > command_list.csv
+  133  git push .
+  134  git commit -m "commit 5"
+  135  git add .
+  136  git commit -m "commit 5"
+  137  gitpush .
+  138  git push .
+  139  touch command_list.csv
+  140  git add command_list.csv
+  141   git commit -m "command_list.csv"
+  142  git push origin master
+  143  git config --global user.name daiiison
+  144  git config --global user.email maryafox.g@gmail.com
+  145  git clone https://github.com/daiiison/HW_10.git
+  146  git init
+  147  cd HW_10
+  148  touch text_ignore.txt
+  149  vim .gitignore
+  150  git status
+  151  git add .
+  152  git commit -m "commit1"
+  153  touch main_test.txt
+  154  git add .
+  155  git commit -m "commit2"
+  156  git checkout -b develop
+  157  touch develop_test.txt
+  158  git add .
+  159  git commit -m "commit3"
+  160  vim develop_test.txt
+  161  git add .
+  162  git commit -m "commit4"
+  163  git checkout main
+  164  git merge develop
+  165  git log
+  166  history > command_list.csv
